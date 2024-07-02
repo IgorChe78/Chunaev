@@ -1,2 +1,5 @@
 akuna matata2
+<<<<<<< HEAD
 gugu3
+=======
+>>>>>>> f8b308e778dc9108c543b12a07f0c4955771ed12
